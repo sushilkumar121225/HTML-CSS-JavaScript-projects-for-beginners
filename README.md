@@ -14,4 +14,4 @@ This is the source code of the website: <a href="https://100jsprojects.com" styl
   <a href="https://100jsprojects.com"  style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Visit my website</a>
 </div>
 
-Here is the best project for students.
+Here is the best projects for students.
